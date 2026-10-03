@@ -1,0 +1,6 @@
+-r requirements.txt
+
+ipykernel
+pre-commit==4.6.2
+pytest==9.1.1
+ruff==0.16.10
